@@ -1,0 +1,11 @@
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\bin\Debug\TH4_kenneith Wijaya.exe.config
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\bin\Debug\TH4_kenneith Wijaya.exe
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\bin\Debug\TH4_kenneith Wijaya.pdb
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith_Wijaya.Form1.resources
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith_Wijaya.Properties.Resources.resources
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.exe
+C:\Users\ROG\source\repos\TH4_kenneith Wijaya\TH4_kenneith Wijaya\obj\Debug\TH4_kenneith Wijaya.pdb
